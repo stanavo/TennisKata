@@ -4,7 +4,7 @@ Dit project is geschreven in Java en maakt gebruik van **Maven** voor build-mana
 
 ## Vereisten
 - Java JDK 17 of hoger  
-- Maven 
+- Apache Maven 
 
 ## Project compileren en uitvoeren
 
